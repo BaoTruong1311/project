@@ -11,6 +11,7 @@ public class ComputeAverage {
 		double number3 = input.nextDouble();
 		
 		double Average = ( number1 + number2 + number3) /3;
+		System.out.println("Sửa tí làm gì căng v ");	
 		System.out.println("The average of " + number1 + " " + number2 + " " + number3 + " is "+ Average);
 	}
 
